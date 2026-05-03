@@ -7,5 +7,5 @@ An end-to-end unsupervised learning project using the UCI Seeds dataset. This im
 3. Statistical Randomized Testing (Monte Carlo simulation) to calculate the p-value of clustering significance against random noise
 4. Cluster purity analysis and automated data exporting
 
-When running the script, please ensure to have seeds_dataset.txt in the same directory as the script. 
+The script to be run is script_ShawnJiang.py. When running the script, please ensure to have seeds_dataset.txt in the same directory as the script. 
 Note that this is an academic lab assignment from the course CPS 803 at TMU.
