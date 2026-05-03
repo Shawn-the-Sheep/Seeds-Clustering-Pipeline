@@ -8,4 +8,4 @@ An end-to-end unsupervised learning project using the UCI Seeds dataset. This im
 4. Cluster purity analysis and automated data exporting
 
 The script to be run is script_ShawnJiang.py. When running the script, please ensure to have seeds_dataset.txt in the same directory as the script. 
-Note that this is an academic lab assignment from the course CPS 803 at TMU.
+Note that this is an academic assignment from the course CPS 803 at TMU, however, the degrees of freedom for this assignment were high.
